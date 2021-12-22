@@ -8,6 +8,7 @@ Simple bot to practice coding python using pyautogui that lets you control keybo
   ``` pip install pyautogui ```
   
   ``` pip install pyperclip ```
+  
   Make sure you use the correct values of ``` x ``` and ``` y ``` according to screen size.
 
   HAPPY CODING ^C
