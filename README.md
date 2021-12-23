@@ -1,4 +1,4 @@
-# Whatsapp-autoreply-simple-bot
+# Whatsapp-autoreply-bot
 Simple bot to practice coding python using pyautogui that lets you control keyboard and cursor movement.
 
 ## Usage
